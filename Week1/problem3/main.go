@@ -34,4 +34,6 @@ func main() {
 
 	fmt.Println("Sum of slice is:", sum)
 
+	//I want learn everything about slices in go should I know
+
 }
